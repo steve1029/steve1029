@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi, I'm DongGun Lee, a researcher working at LG innotek. 
-I am interested in developing new computational methodologies to solve complex problems in physics based on deep mathematical understanding. 
-The problems I am interested in usually involves high-performance computing technique such as parallel computing and GPU acceleration.
+Hi, I'm DongGun Lee, a researcher working at LG Innotek. 
+I am interested in developing new computational methodologies to solve complex problems in physics 
+based on deep mathematical understanding. The problems I am interested in usually involve 
+high-performance computing technologies such as parallel computing and GPU acceleration.
 <!-- Currently, I'm looking for a postdoctoral position in USA. -->
