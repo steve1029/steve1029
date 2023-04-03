@@ -26,8 +26,7 @@ based on deep mathematical understanding. The problems I am interested in usuall
 high-performance computing technologies such as parallel computing and GPU acceleration.
 <!-- Currently, I'm looking for a postdoctoral position in USA. -->
 
-[![DongGun's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve1029&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve1029&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steve1029&repo=SHPF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![DongGun's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve1029&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve1029&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
