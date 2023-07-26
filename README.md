@@ -28,16 +28,16 @@ high-performance computing technologies such as parallel computing and GPU accel
    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/donggun-lee-948447208/">
-<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&labelColor=555555&logoColor=white">
+   <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://github.com/steve1029">
-<img src="https://img.shields.io/static/v1?label=&message=github&color=2088FF&style=for-the-badge&logo=github&labelColor=555555&logoColor=white">
+   <img src="https://img.shields.io/static/v1?label=&message=github&color=2088FF&style=for-the-badge&logo=github&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://scholar.google.com/citations?user=iYm5ThEAAAAJ&hl=ko">
-<img src="https://img.shields.io/static/v1?label=&message=google scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
+   <img src="https://img.shields.io/static/v1?label=&message=google scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://www.researchgate.net/profile/Donggun-Lee-5">
-<img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
+   <img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
 </a>
 
 [![DongGun's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve1029&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
