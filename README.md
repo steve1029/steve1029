@@ -41,4 +41,4 @@ high-performance computing technologies such as parallel computing and GPU accel
 </a>
 
 [![DongGun's GitHub stats](https://github-readme-stats.vercel.app/api?username=steve1029&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve1029&exclude_repo=lgbackup,lang_practices,hands_on_gpu_pycuda&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve1029&exclude_repo=lgbackup,lang_practices,hands_on_gpu_pycuda,KEMP&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
